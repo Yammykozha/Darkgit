@@ -1,2 +1,0 @@
-# Darkgit
-Coding and stuff
